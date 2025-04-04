@@ -56,5 +56,10 @@
         "temp/": true,
         "Temp/": true
     },
+<<<<<<< HEAD
     "dotnet.defaultSolution": "DreamOfTheKingdom.sln"
+=======
+    "dotnet.defaultSolution": "DreamOfTheKingdom.sln",
+    "dotnet.preferCSharpExtension": true
+>>>>>>> 7a08c2b867cf04475eb39569ca814bab7b365067
 }

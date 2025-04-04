@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf85d4d72e2e88f40be935e582c338e4, type: 3}
+  m_Name: BoosAction Data
+  m_EditorClassIdentifier: 
+  actions:
+  - intentSprite: {fileID: 21300000, guid: a34550cedb3234dc085a67e7fb9bf5c8, type: 3}
+    effect: {fileID: 11400000, guid: 0046d123a1c0b5a49b4f089a45ebfd30, type: 2}
+  - intentSprite: {fileID: 21300000, guid: 5b7941c6c325844069867a772800fad7, type: 3}
+    effect: {fileID: 11400000, guid: 5babd58ba69888547a557052ef236597, type: 2}
+  - intentSprite: {fileID: 21300000, guid: e80d1ecfd06c74b5f8bcdd4b0745f92c, type: 3}
+    effect: {fileID: 11400000, guid: 90e97afb4c81e0e4b95c24a267acf8bf, type: 2}
+  - intentSprite: {fileID: 21300000, guid: d7f03361f8c0a4e1293a0b3eb59d0320, type: 3}
+    effect: {fileID: 11400000, guid: 6a36213545eef0f4b9d1eebf8d347e03, type: 2}
+  - intentSprite: {fileID: 21300000, guid: 810448b82870c45058f8b2de5423274a, type: 3}
+    effect: {fileID: 11400000, guid: 33649c44c4c94f94f8cdaf9c63e35be1, type: 2}
+  - intentSprite: {fileID: 21300000, guid: d7f03361f8c0a4e1293a0b3eb59d0320, type: 3}
+    effect: {fileID: 11400000, guid: 47280c4d5a92b9a4dbd2cffc61c001b9, type: 2}
+  - intentSprite: {fileID: 21300000, guid: a34550cedb3234dc085a67e7fb9bf5c8, type: 3}
+    effect: {fileID: 11400000, guid: 5db37c3d2253a544189d20d3cc26a42c, type: 2}
+  - intentSprite: {fileID: 21300000, guid: 5b7941c6c325844069867a772800fad7, type: 3}
+    effect: {fileID: 11400000, guid: 887d20d7ae9d40446a2e1af037075d74, type: 2}

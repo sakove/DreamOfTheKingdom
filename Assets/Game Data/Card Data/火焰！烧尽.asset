@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 627d1779f2cedcb41965af8a0bc98116, type: 3}
+  m_Name: "\u706B\u7130\uFF01\u70E7\u5C3D"
+  m_EditorClassIdentifier: 
+  rarity: 2
+  cardID: 8
+  isAttackValue: 1
+  isDefenseValue: 0
+  cardName: "\u706B\u7130\uFF01\u70E7\u5C3D"
+  cardImage: {fileID: 21300000, guid: e977c1562987f7e41b442f92c93f4234, type: 3}
+  cost: 2
+  cardType: 0
+  cardDescription: "\u5BF9\u76EE\u6807\u654C\u4EBA\u9020\u6210<color=\"white\">6</color>\u70B9\u4F24\u5BB3\u5E76\u65BD\u52A0<color=\"white\">8</color>\u70B9\u707C\u70E7"
+  effects:
+  - {fileID: 11400000, guid: f5e23f003177cfc49a7061929954d3c0, type: 2}
+  - {fileID: 11400000, guid: 3bf44d7ea863e7243b9074b09408593e, type: 2}

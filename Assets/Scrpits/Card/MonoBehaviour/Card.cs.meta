@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4dcb3267ce0b93c48a4fa08ec7c4e58e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sprite: {instanceID: 0}
+  - costText: {instanceID: 0}
+  - descriptionText: {instanceID: 0}
+  - typeText: {instanceID: 0}
+  - nameText: {instanceID: 0}
+  - cardData: {instanceID: 0}
+  - player: {instanceID: 0}
+  - discardCardEvent: {instanceID: 0}
+  - costEvent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

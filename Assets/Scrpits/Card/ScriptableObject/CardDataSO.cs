@@ -4,6 +4,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "CardDataSO", menuName = "Card/CardDataSO")]
 public class CardDataSO : ScriptableObject
 {
+    //卡牌稀有度
     public int rarity;
     public int cardID;
     public bool isAttackValue;
